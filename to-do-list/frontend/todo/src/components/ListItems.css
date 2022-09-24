@@ -1,0 +1,14 @@
+#listingSection{
+    padding: 3px;
+    font-size: 17px;
+    border-style:double;
+    background-color: rgb(193, 183, 183);
+    border-radius: 20px;
+    font-weight:bold;
+    box-shadow: inset -4px -4px 3px rgba(9, 21, 123, 0.724);
+}
+
+#linerow {
+    text-align: center;
+}
+
